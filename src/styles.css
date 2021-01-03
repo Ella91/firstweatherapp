@@ -1,0 +1,56 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+}
+
+input {
+  border-radius: 25px;
+  border: 1px solid #ff3366;
+  background: #ffffff;
+  color: #ff3366;
+  font-size: 20px;
+  margin: 0 auto;
+  line-height: 22px;
+  padding: 16px 24px;
+  text-decoration: none;
+  transition: all 200ms ease;
+  box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+}
+
+button {
+  border-radius: 25px;
+  border: 1px solid #4eae53;
+  background: #4eae53;
+  color: #ffffff;
+  font-size: 20px;
+  margin: 0 auto;
+  line-height: 22px;
+  padding: 16px 24px;
+  text-decoration: none;
+  transition: all 200ms ease;
+  box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+}
+.container {
+  display: block;
+  text-align: center;
+}
+h1,
+ul {
+  color: #4eae53;
+  text-align: center;
+  margin: 0;
+  font-size: 20px;
+  line-height: 20px;
+  list-style: none;
+}
+
+.middleemoji {
+  position: fixed;
+  top: 100px;
+  right: 300px;
+}
+.days {
+  display: block;
+  text-align: center;
+  margin-left: 300px;
+}
